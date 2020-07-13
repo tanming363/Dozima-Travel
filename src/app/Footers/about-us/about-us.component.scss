@@ -1,0 +1,16 @@
+.card {
+  margin-top: -60px;
+}
+.card-text {
+  font-size: 17px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+span {
+  border-bottom: 1px solid;
+}
+@media only screen and (max-width: 767px) {
+  .card {
+    margin-top: 20px;
+  }
+}

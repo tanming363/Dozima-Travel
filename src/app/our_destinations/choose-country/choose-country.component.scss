@@ -1,0 +1,12 @@
+.card-country {
+  transition: all ease 0.1s;
+  border-radius: 30px;
+  border: none;
+}
+.active {
+  border: 1.5px solid;
+}
+span {
+  font-size: 25px;
+  font-weight: 500;
+}

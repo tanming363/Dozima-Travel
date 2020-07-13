@@ -1,0 +1,39 @@
+$theme-colors: (
+  "footer": #faf1ed,
+  "footerTxt": #5b2434,
+  "about": #c9f2e3,
+  "black": #000000,
+
+);
+
+$font-family-base: ("Raleway", sans-serif);
+
+.select-option {
+  max-width: 350px;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+@media only screen and (max-width: 767px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+  }
+  .tanmay {
+    order: 2;
+  }
+  .footer-query {
+    text-align: center;
+  }
+  .display-5.programs {
+    font-size: 14px;
+  }
+}
+
+$btn-focus-box-shadow: none !important;
+$input-btn-focus-box-shadow: none;
+
+.card-shadow {
+  box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14),
+    0 1px 3px 0 rgba(0, 0, 0, 0.12);
+}
