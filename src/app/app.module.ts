@@ -10,7 +10,6 @@ import { FooterComponent } from './Footers/footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ContentComponent } from './content/content.component';
 
-import { TravelDetailsService } from './services/travel-details.service';
 import { HttpClientModule } from '@angular/common/http';
 import { TurkeyComponent } from './our_destinations/turkey/turkey.component';
 import { ChooseCountryComponent } from './our_destinations/choose-country/choose-country.component';
@@ -37,7 +36,7 @@ import { ArmeniaGeorgiaComponent } from './our_destinations/offer/armenia-georgi
     BrowserAnimationsModule,
     HttpClientModule
   ],
-  providers: [TravelDetailsService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
