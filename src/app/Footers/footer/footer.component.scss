@@ -11,3 +11,22 @@ span:hover {
 .footer {
   margin-top: 36px;
 }
+
+.footer-tanmay {
+  display: flex;
+  flex-direction: row;
+}
+.footer-tanmay:before,
+.footer-tanmay:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid #a07783;
+  margin: auto;
+}
+.footer-tanmay:before {
+  margin-right: 10px;
+}
+.footer-tanmay:after {
+  margin-left: 10px;
+}
+

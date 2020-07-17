@@ -13,4 +13,16 @@ span {
   .card {
     margin-top: 20px;
   }
+  .scroll {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+  .scroll .row {
+    display: block;
+  }
+  .scroll .scroll-box {
+    display: inline-block;
+    float: none;
+  }
 }
