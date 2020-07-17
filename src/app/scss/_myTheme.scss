@@ -3,9 +3,7 @@ $theme-colors: (
   "footerTxt": #5b2434,
   "about": #c9f2e3,
   "black": #000000,
-
 );
-
 $font-family-base: ("Raleway", sans-serif);
 
 .select-option {
@@ -37,13 +35,13 @@ $input-btn-focus-box-shadow: none;
   box-shadow: 0 2px 1px -1px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14),
     0 1px 3px 0 rgba(0, 0, 0, 0.12);
 }
-.linew{
-    display: block;
-    content: "";
-    position: absolute;
-    top: calc(50% - 2px);
-    left: 0;
-    right: 0;
-    z-index: -1;
-    border-bottom: 1px solid black;
+.linew {
+  display: block;
+  content: "";
+  position: absolute;
+  top: calc(50% - 2px);
+  left: 0;
+  right: 0;
+  z-index: -1;
+  border-bottom: 1px solid black;
 }

@@ -16,6 +16,7 @@ import { ChooseCountryComponent } from './our_destinations/choose-country/choose
 import { TurkeyOfferComponent } from './our_destinations/offer/turkey-offer/turkey-offer.component';
 import { ArmeniaGeorgiaComponent } from './our_destinations/offer/armenia-georgia/armenia-georgia.component';
 
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,7 @@ import { ArmeniaGeorgiaComponent } from './our_destinations/offer/armenia-georgi
     BrowserAnimationsModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -9,13 +9,14 @@ import { ArmeniaGeorgiaComponent } from './our_destinations/offer/armenia-georgi
 
 
 const routes: Routes = [
-  { path: '', component: TurkeyComponent },
+  { path: '', redirectTo: '/turkey', pathMatch: 'full' },
   { path: 'contact', component: ContactComponent },
   { path: 'about', component: AboutUsComponent },
   { path: 'content', component: ContentComponent },
   { path: 'turkey', component: TurkeyComponent },
   { path: 'turkey-offer', component: TurkeyOfferComponent },
-  { path: 'armenia&georgia-offer', component: ArmeniaGeorgiaComponent }
+  { path: 'armenia&georgia-offer', component: ArmeniaGeorgiaComponent },
+  { path: '**', component: TurkeyComponent }
 ];
 
 @NgModule({

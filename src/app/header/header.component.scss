@@ -19,3 +19,7 @@
     border-bottom: none;
   }
 }
+.dropdown-item:focus {
+  background: #e9ecef;
+  color: black;
+}
