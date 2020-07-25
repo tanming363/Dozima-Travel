@@ -47,7 +47,7 @@
   "aboutTurkey": {
     "menu": {
       "aboutTurkeyTitle": "O Turcji",
-      "aboutTurkey": "Niewiele krajów na świecie ppodlegało tak wielu przemianom jak Turcja, będąca historycznym mostem między Wschodem a Zachodem, Europą a Azją. Prawie każdy naród zamieszkujący kiedyś te tereny pozostawił po sobie jakies ślady - Od Akadów, poprzez Asyryjczyków, Hetytów i Greków, Rzymian Aleksandra Wielkiego i czasów Bizantyjskich, po Turków Osmańskich. Dzisiejsza Turcja jest w dużym stopniu dziełem Kamela Ataturka - Ojca Turków, którego siła i osobowość pozwoliły na jej europeizację. Kulturalne i historyczne bogactwo Turcji to przede wszystkim meczety, kościoły i podziemne miasta chrześcijańskie, stanowiska archeologiczne oraz pozostałości miast starożytnych. Ponadto kraj ten jest bardzo bogaty w różnego rodzaju krajobrazy oraz atrakcje przyrodnicze. Przemierzając Turcję można podziwiać wspaniałe plaże, wodospady, ogromne jeziora, łańcuchy górskie bogate w zieleń oraz te całkiem kamienne. Prawdziwym skarbem Turcji jest Kapadocja - kraina bajkowych kamiennych kominów - pozostałość powulkaniczna. Innych zachwycą białe tarasy z trawertynu w Pamukkale, zabytek wpisany na listę UNESCO. Turcja jest miejscem bardzo atrakcyjnym nie tylko latem! Mało kto wie, że zimą w Turcji działa wiele ośrodkó narciarskich, a w niektórych miejscach temperatura zimą jest niższa niż w Polsce"
+      "aboutTurkey": "Niewiele krajów na świecie ppodlegało tak wielu przemianom jak Turcja, będąca historycznym mostem między Wschodem a Zachodem, Europą a Azją. Prawie każdy naród zamieszkujący kiedyś te tereny pozostawił po sobie jakies ślady - Od Akadów, poprzez Asyryjczyków, Hetytów i Greków, Rzymian Aleksandra Wielkiego i czasów Bizantyjskich, po Turków Osmańskich. Dzisiejsza Turcja jest w dużym stopniu dziełem Kamela Ataturka - Ojca Turków, którego siła i osobowość pozwoliły na jej europeizację. Kulturalne i historyczne bogactwo Turcji to przede wszystkim meczety, kościoły i podziemne miasta chrześcijańskie, stanowiska archeologiczne oraz pozostałości miast starożytnych. Ponadto kraj ten jest bardzo bogaty w różnego rodzaju krajobrazy oraz atrakcje przyrodnicze. Przemierzając Turcję można podziwiać wspaniałe plaże, wodospady, ogromne jeziora, łańcuchy górskie bogate w zieleń oraz te całkiem kamienne. Prawdziwym skarbem Turcji jest Kapadocja - kraina bajkowych kamiennych kominów - pozostałość powulkaniczna. Innych zachwycą białe tarasy z trawertynu w Pamukkale, zabytek wpisany na listę UNESCO. Turcja jest miejscem bardzo atrakcyjnym nie tylko latem! Mało kto wie, że zimą w Turcji działa wiele ośrodkó narciarskich, a w niektórych miejscach temperatura zimą jest niższa niż w Polsce."
     }
   },
   "popAttrTitle": {
@@ -120,6 +120,7 @@
       },
       {
         "day": "2 dzień",
+        "img": "assets/img/day2.jpg",
         "info": "Śniadanie. Wyjazd do starożytnego Efezu , jednego z najlepiej zachowanych miast starożytności, w którym nauczali: św. Jan i św. Paweł. Wizyta w Domku Matki Bożej –miejscu, w którym wg tradycji zamieszkiwała Matka Boża ze św. Janem Apostołem. Przejazd do Kuşadası Zakwaterowanie w hotelu . Obiadokolacja i nocleg."
       },
       {
@@ -134,6 +135,7 @@
       },
       {
         "day": "5 dzień",
+        "img": "assets/img/day5.jpg",
         "info": "Śniadanie, wyjazd do Konyi. Zwiedzanie kościoła św. Pawła. Muzeum Mevlany –założyciela zakony Tańczących Derwiszów. Przejazd do Kapadocji. Zakwaterowanie w hotelu w Ürgüp. Obiadokolacja, nocleg."
       },
       {
@@ -148,6 +150,7 @@
       },
       {
         "day": "8 dzień",
+        "img": "assets/img/day7.jpg",
         "info": "Śniadanie. Całodzienny wypoczynek nad morzem. Obiadokolacja w hotelu, nocleg."
       },
       {
@@ -157,6 +160,7 @@
       },
       {
         "day": "10 dzień",
+        "img": "assets/img/day10.jpg",
         "info": "Śniadanie. Transfer na lotnisko w Antalyi. Wylot do Polski."
       }
     ]
@@ -170,6 +174,7 @@
     "menu": [
       {
         "day": "1 dzień",
+        "img": "assets/img/day11.jpg",
         "info": "Zbiórka uczestników na lotnisku w Gdańsku Rębiechowie. Odprawa bagażowo-biletowa, następnie wylot do Warszawy, lądowanie w stolicy Polski. Wylot do Erywania."
       },
       {
@@ -214,6 +219,7 @@
       },
       {
         "day": "10 dzień",
+        "img": "assets/img/day1010.jpg",
         "info": "Śniadanie w hotelu i czas wolny w Batumi. Wieczorem powrót do hotelu, obiadokolacja i obiad."
       },
       {
@@ -223,6 +229,7 @@
       },
       {
         "day": "12 dzień",
+        "img": "assets/img/day12.jpg",
         "info": "Transfer na lotnisko w Tbilisi. Odprawa biletowo-bagażowa i wylot do Warszawy. Lądowanie w Warszawie. Wylot do Gdańska. Lądowanie w Gdańsku. Zakończenie pielgrzymki."
       }
     ]

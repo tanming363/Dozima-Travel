@@ -117,6 +117,7 @@
       },
       {
         "day": "2 Day",
+        "img": "assets/img/day2.jpg",
         "info": "Breakfast. Departure to ancient Ephesus, one of the best-preserved cities of antiquity, taught by: St. John and St. Paul. A visit to the House of Our Lady - the place where, according to tradition, the Mother of God with St. John the Apostle. Transfer to Kuşadası. Accommodation at the hotel. Dinner and overnight."
       },
       {
@@ -145,6 +146,7 @@
       },
       {
         "day": "8 Day",
+        "img": "assets/img/day7.jpg",
         "info": "Breakfast. All-day rest at the seaside. Dinner at the hotel, overnight."
       },
       {
@@ -154,6 +156,7 @@
       },
       {
         "day": "10 Day",
+        "img": "assets/img/day10.jpg",
         "info": "Breakfast. Transfer to Antalya airport. Departure to Poland."
       }
     ]
@@ -167,6 +170,7 @@
     "menu": [
       {
         "day": "1 Day",
+        "img": "assets/img/day11.jpg",
         "info": "Meeting of participants at the airport in Gdańsk Rębiechowo. Bag and ticket check-in, then departure to Warsaw, landing in the Polish capital. Departure to Yerevan."
       },
       {
@@ -211,6 +215,7 @@
       },
       {
         "day": "10 Day",
+        "img": "assets/img/day1010.jpg",
         "info": "Breakfast at the hotel and free time in Batumi. In the evening, return to the hotel, dinner and lunch."
       },
       {
@@ -220,6 +225,7 @@
       },
       {
         "day": "12 Day",
+        "img": "assets/img/day12.jpg",
         "info": "Transfer to the airport in Tbilisi. Ticket and luggage check-in and flight to Warsaw. Landing in Warsaw. Departure to Gdańsk. Landing in Gdańsk. End of the pilgrimage."
       }
     ]
