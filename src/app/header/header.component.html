@@ -10,43 +10,71 @@
 
                 <div class="navbar-collapse collapse" id="navbarSupportedContent">
                         <div class="spacer"></div>
+
                         <ul class="navbar-nav">
+                                <span class="material-icons my-2 text-grey">
+                                        g_translate
+                                </span>
+
+                                <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle font-weight-bold text-dark" href="#"
+                                                role="button" data-toggle="dropdown">
+                                                {{'header7.menu.text' |translate}}
+                                        </a>
+                                        <ul class="dropdown-menu border-0 shadow">
+                                                <li>
+                                                        <a class="dropdown-item p-3" [class.active]="switchLang=='pl'"
+                                                                (click)="useLanguage('pl')">Polskie</a>
+                                                </li>
+                                                <li>
+                                                        <div class="dropdown-divider my-0"></div>
+                                                </li>
+                                                <li>
+                                                        <a class="dropdown-item p-3" [class.active]="switchLang=='en'"
+                                                                (click)="useLanguage('en')">English</a>
+                                                </li>
+                                        </ul>
+                                </li>
+
                                 <li class="nav-item">
                                         <a class="nav-link font-weight-bold text-dark" [routerLink]="[ '/content' ]"
-                                                routerLinkActive="active">Home
+                                                routerLinkActive="active">
+                                                {{'header1.menu.text' | translate }}
                                         </a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                        <!-- dropdown -->
-                                        <a href="#" class="nav-link font-weight-bold text-dark"
-                                                data-toggle="dropdown">Oferta</a>
+
+                                        <a href="#" class="nav-link font-weight-bold text-dark" data-toggle="dropdown">
+                                                {{'header2.menu.text' | translate }}</a>
                                         <ul class="dropdown-menu border-0 shadow">
                                                 <li>
-                                                        <a class="dropdown-item p-3"
-                                                                [routerLink]="[ '/turkey-offer' ]">Turkey</a>
+                                                        <a class="dropdown-item p-3" [routerLink]="[ '/turkey-offer' ]">
+                                                                {{'header3.menu.text' | translate }}
+                                                        </a>
                                                 </li>
                                                 <li>
                                                         <div class="dropdown-divider my-0"></div>
                                                 </li>
                                                 <li>
                                                         <a class="dropdown-item p-3"
-                                                                [routerLink]="[ '/armenia&georgia-offer' ]">Armenia &
-                                                                Georgia</a>
+                                                                [routerLink]="[ '/armenia&georgia-offer' ]">
+                                                                {{'header4.menu.text' | translate }}
+                                                        </a>
                                                 </li>
                                         </ul>
                                 </li>
-                                <!-- <li class="nav-item">
-                                        <a class="nav-link font-weight-bold text-dark" [routerLink]="[ '/offer' ]"
-                                                routerLinkActive="active">Oferta</a>
-                                </li> -->
 
                                 <li class="nav-item">
                                         <a class="nav-link font-weight-bold text-dark" [routerLink]="[ '/about' ]"
-                                                routerLinkActive="active">O firmie</a>
+                                                routerLinkActive="active">
+                                                {{'header5.menu.text' | translate }}
+                                        </a>
                                 </li>
                                 <li class="nav-item">
                                         <a class="nav-link font-weight-bold text-dark" [routerLink]="[ '/contact' ]"
-                                                routerLinkActive="active">Kontakt</a>
+                                                routerLinkActive="active">
+                                                {{'header6.menu.text' | translate }}
+                                        </a>
                                 </li>
                         </ul>
 

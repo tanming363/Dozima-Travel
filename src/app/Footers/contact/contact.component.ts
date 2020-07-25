@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactComponent implements OnInit {
 
+  dozamiAll: any;
+
   constructor() { }
 
   ngOnInit(): void {
+   
   }
 
 }

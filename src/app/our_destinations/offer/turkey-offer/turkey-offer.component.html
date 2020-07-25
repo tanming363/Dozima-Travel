@@ -6,7 +6,7 @@
                                 <img src="assets/img/blue-mosque.jpg" class="d-block w-100">
                                 <div class="carousel-caption">
                                         <h2 class="display-5 text-white text-uppercase">
-                                                PIELGRZYMKA DO TURCJI 10 DNI
+                                                {{'turkeyOfferTitle.menu.heading' | translate}}
                                         </h2>
                                 </div>
                         </div>
@@ -21,131 +21,20 @@
                 <div class="mt-5">
                         <h5
                                 class="mb-3 bg-black p-3 text-white text-center mx-auto select-option rounded text-capitalize">
-                                Pielgrzymka Do Turcji 10 Dni
+                                {{'turkeyOfferTitle.menu.heading' | translate}}
                         </h5>
-                        <!-- day 1 and 2-->
-                        <div>
-                                <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                                        <div class="col-md-6 mb-md-0 p-md-4 ">
-                                                <img src="assets/img/ephesus.jpg" class="w-100">
-                                        </div>
-                                        <div class="col-md-6 p-4">
-                                                <h4 class="mt-0">1 dzień
-                                                </h4>
-                                                <p>Zbiórka uczestników pielgrzymki w wyznaczonym miejscu i
-                                                        godzinie. Przejazd na lotnisko . Wylot do Antalyi. Lądowanie.
-                                                        Przejazd do Kuşadası*. Zakwaterowanie. Obiadokolacja i nocleg.
-                                                </p>
-                                                <h4 class="mt-0">2 dzień</h4>
-                                                Śniadanie. Wyjazd do starożytnego Efezu , jednego z najlepiej
-                                                zachowanych miast starożytności, w którym nauczali: św. Jan i św.
-                                                Paweł. Wizyta w Domku Matki Bożej –miejscu, w którym wg tradycji
-                                                zamieszkiwała Matka Boża ze św. Janem Apostołem. Przejazd do
-                                                Kuşadası Zakwaterowanie w hotelu . Obiadokolacja i nocleg.
-                                        </div>
-                                </div>
-                        </div>
-                        <!-- day 3 -->
-                        <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                                <div class="col-md-6 p-4 tanmay">
-                                        <h4 class="mt-0">3 dzień</h4>
-                                        <p> Śniadanie w hotelu i zwiedzanie Pamukkale –
-                                                śnieżnobiałych tarasów wapiennych, które objęło patronatem
-                                                UNESCO, wpisując je na listę światowego dziedzictwa
-                                                przyrodniczego. Zwiedzanie największego zachowanego
-                                                Nekropolis oraz wizyta w starożytnym mieście Herapolis z
-                                                możliwością kąpieli w basenie Kleopatry. W drodze na wybrzeże
-                                                egejskie msza święta w Laodycei - jednego z kościołów św. Jana.
-                                                Przejazd do hotelu. Obiadokolacja i nocleg.
-                                        </p>
-                                </div>
-                                <div class="col-md-6 mb-md-0 p-md-4 ">
-                                        <img src="assets/img/pammu.jpg" class="w-100">
-                                </div>
-                        </div>
-                </div>
-                <!-- day 4 -->
-                <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                        <div class="col-md-6 mb-md-0 p-md-4 ">
-                                <img src="assets/img/konya.jpg" class="w-100">
-                        </div>
-                        <div class="col-md p-4">
-                                <h4 class="mt-0">4 dzień</h4>
-                                <p>Śniadanie, wyjazd do Konyi. Zwiedzanie kościoła św. Pawła.
-                                        Muzeum Mevlany –założyciela zakony Tańczących Derwiszów. Przejazd do
-                                        Kapadocji. Zakwaterowanie w
-                                        hotelu w Ürgüp. Obiadokolacja, nocleg.
-                                </p>
-                        </div>
-                </div>
 
-                <!-- day 5 and 6 -->
-                <div>
-                        <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                                <div class="col-md-6 p-4 tanmay">
-                                        <h4 class="mt-0">5 dzień</h4>
-                                        <p>Śniadanie, wyjazd do Göreme. Zwiedzanie Derinkuyu ( podziemne
-                                                miasto), Uchisar, Zelve, Avanos, Devent, wąwóz Ihlara. Powrót do
-                                                hotelu, zakwaterowanie. Obiadokolacja, nocleg. Fakultatywnie
-                                                wieczór turecki.
-                                        </p>
-                                        <h4 class="mt-0">6 dzień</h4>
-                                        <p>
-                                                Śniadanie. Wyjazd do Antiochii, gdzie powstała po podboju
-                                                rzymskim w 64 r n. e stała się trzecim po Rzymie i Aleksandrii
-                                                miastem świata zachodniego. Tu powstała jedna z pierwszych poza
-                                                Bliskim Wschodem społeczność chrześcijańska, Antiochia była też
-                                                ważnym punktem Jedwabnego Szlaku. Wokół miasta rozciąga się
-                                                mur miejski o długości 30 km. Przejazd do kościoła św. Piotra,
-                                                znajdującego się 3,5 km poza miastem, uważanego za najstarszy
-                                                kościół zbudowany poza Ziemią Świętej,
-                                                msza św. Obiadokolacja. Nocleg w hotelu w Antiochii.
-                                        </p>
-                                </div>
+                        <div class="row position-relative bor-rad-10 mb-3 rounded-lg card-shadow"
+                                *ngFor="let menu of 'turkey.menu'| translate">
                                 <div class="col-md-6 mb-md-0 p-md-4 ">
-                                        <img src="assets/img/kapadokya3.jpg" class="w-100">
+                                        <img [src]="menu.img" class="w-100">
+                                </div>
+                                <div class="col-md-6 p-4">
+                                        <h4 class="mt-0">{{menu.day}}</h4>
+                                        <p>{{menu.info}}</p>
                                 </div>
                         </div>
-                </div>
-                <!-- day 7 and 8 -->
-                <div>
-                        <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                                <div class="col-md-6 mb-md-0 p-md-4 ">
-                                        <img src="assets/img/day8.jpg" class="w-100">
-                                </div>
-                                <div class="col-md-6 p-4 tanmay">
-                                        <h4 class="mt-0">7 dzień</h4>
-                                        <p>Śniadanie, wyjazd do Tarsu, skąd pochodzili św. Paweł, apostoł,
-                                                Teodor i Diodor z Tarsu. Zwiedzanie Bramy Kleopatry, zwanej też
-                                                czasem Bramą Pawła , studni św. Pawła. Msza św. w kościele św.
-                                                Pawła. Przejazd do Kızkalesi. Zakwaterowanie w hotelu.
-                                                Obiadokolacja, nocleg.
-                                        </p>
-                                        <h4 class="mt-0">8 dzień</h4>
-                                        <p>Śniadanie. Całodzienny wypoczynek nad morzem. Obiadokolacja w
-                                                hotelu, nocleg.
-                                        </p>
-                                </div>
-                        </div>
-                </div>
-                <!-- day 9 and 10 -->
-                <div>
-                        <div class="row  position-relative bor-rad-10 mb-3 rounded-lg card-shadow">
-                                <div class="col-md p-4 tanmay">
-                                        <h4 class="mt-0">9 dzień</h4>
-                                        <p>
-                                                Śniadanie. Całodzienny wypoczynek nad morzem. Obiadokolacja w
-                                                hotelu, nocleg.
-                                        </p>
-                                        <h4 class="mt-0">10 dzień</h4>
-                                        <p>
-                                                Śniadanie. Transfer na lotnisko w Antalyi. Wylot do Polski.
-                                        </p>
-                                </div>
-                                <div class="col-md-6 mb-md-0 p-md-4 ">
-                                        <img src="assets/img/beaches.jpg" class="w-100">
-                                </div>
-                        </div>
+
                 </div>
         </div>
 </div>

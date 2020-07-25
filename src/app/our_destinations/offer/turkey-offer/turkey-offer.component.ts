@@ -10,6 +10,9 @@ export class TurkeyOfferComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  
   }
+
+ 
 
 }

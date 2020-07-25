@@ -1,0 +1,241 @@
+{
+  "header1": {
+    "menu": {
+      "text": "Home"
+    }
+  },
+  "header2": {
+    "menu": {
+      "text": "Offer"
+    }
+  },
+  "header3": {
+    "menu": {
+      "text": "Turkey"
+    }
+  },
+  "header4": {
+    "menu": {
+      "text": "Armenia & Georgia"
+    }
+  },
+  "header5": {
+    "menu": {
+      "text": "About Us"
+    }
+  },
+  "header6": {
+    "menu": {
+      "text": "Contact"
+    }
+  },
+  "header7": {
+    "menu": {
+      "text": "Language"
+    }
+  },
+  "footer": {
+    "menu": {
+      "text": "place"
+    }
+  },
+  "footer2": {
+    "menu": {
+      "text": "Select Destination"
+    }
+  },
+  "aboutTurkey": {
+    "menu": {
+      "aboutTurkeyTitle": "About Turkey",
+      "aboutTurkey": "Few countries in the world have undergone as much change as Turkey, the historic bridge between East and West, Europe and Asia. Almost every nation that once inhabited these areas left some traces - from the Akkads, through the Assyrians, Hittites and Greeks, the Romans of Alexander the Great and the Byzantine times, to the Ottoman Turks. Today's Turkey is to a large extent the work of Kamel Ataturk - the Father of Turks, whose strength and personality allowed for its Europeanization. The cultural and historical wealth of Turkey is primarily mosques, churches and underground Christian cities, archaeological sites and the remains of ancient cities. In addition, the country is very rich in various types of landscapes and natural attractions. While traveling through Turkey, you can admire wonderful beaches, waterfalls, huge lakes, mountain ranges rich in green and quite stone ones. The real treasure of Turkey is Cappadocia - the land of fairy-tale stone chimneys - a volcanic remnant. Others will be delighted by the white travertine terraces of Pamukkale, a monument entered on the UNESCO list. Turkey is a very attractive place not only in summer! Few people know that in winter Turkey has many ski resorts, and in some places the temperature in winter is lower than in Poland."
+    }
+  },
+  "popAttrTitle": {
+    "menu": {
+      "heading": "The most popular attractions"
+    }
+  },
+  "popAttr": {
+    "menu": [
+      {
+        "popTitle": "Ephesus",
+        "popInfo": "Ephesus (Ancient Greek: Ἔφεσος Efesos; Turkish: Efes; may eventually draw from Hittite Apasa) was an ancient Greek city on the coast of Ionia, three kilometers southwest of present-day Selçuk in the province of Izmir, Turkey. It was built in the 10th century BC on the site of the former Arzawan capital by Attica and the Ionian Greek colonists. In classical Greece it was one of the twelve cities of the Ionian League. The city flourished after it was taken over by the Roman Republic in 129 BC.",
+        "popImg": "assets/img/ephesus.jpg",
+        "popLink": "https://pl.wikipedia.org/wiki/Efez",
+        "popRead": "Read More..."
+      },
+      {
+        "popTitle": "HZ. House of the Virgin Mary",
+        "popInfo": "The House of the Virgin Mary is 9 km from Selcuk. In the distance it is on the Bülbül mountain. 4 or 6 years after the death of Jesus, St. It is known that John brought the Virgin Mary to Ephesus. In 1891, the Lazarist priests discovered that the house where the Virgin Mary spent her last days was the dream of the German nun A. Catherine Emmerick. This event was a completely new invention in the Christian world and shed light on the world of religion. This cross-planned domed building was later restored. Following the visit of Pope Paul in 1967, the House is considered a holy place by Muslims.",
+        "popImg": "assets/img/meryem.jpg",
+        "popLink": "https://www.hzmeryemanaevi.com",
+        "popRead": "Read More..."
+      }
+    ]
+  },
+  "otherAttrTitle": {
+    "menu": {
+      "heading": "Other attractions"
+    }
+  },
+  "otherAttr": {
+    "menu": [
+      {
+        "otherTitle": "Pamukkale",
+        "otherInfo": "Pamukkale (tur. Cotton castle or Cotton fortress) - a Turkish town located in the Cürüksu valley (in ancient times called the Lycos Valley), about 18 km from Denizli. It is famous for its limestone deposits formed on the slope of Mount Cökelez.",
+        "otherImg": "assets/img/pamukkale.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Pamukkale",
+        "otherRead": "Read More..."
+      },
+      {
+        "otherTitle": "Ayasofya",
+        "otherInfo": "Hagia Sophia (Ayasofya) museum in Istanbul (former Constantinople), in the past a Christian temple, then a mosque. Considered the greatest building and architecture of the first millennium AD.",
+        "otherImg": "assets/img/blue.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Hagia_Sophia",
+        "otherRead": "Read More..."
+      },
+      {
+        "otherTitle": "Kappadokya",
+        "otherInfo": "Cappadocia - a historical land in central Turkey and the central part of Anatolia, known primarily for the characteristic tufa forms that make up the lunar landscape, and for houses and churches carved into these volcanic rocks.",
+        "otherImg": "assets/img/kap.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Kapadocja",
+        "otherRead": "Read More..."
+      }
+    ]
+  },
+  "turkeyOfferTitle": {
+    "menu": {
+      "heading": "PILGRIMAGE TO TURKEY 10 DAYS"
+    }
+  },
+  "turkey": {
+    "menu": [
+      {
+        "day": "1 Day",
+        "img": "assets/img/ephesus.jpg",
+        "info": "Transfer to the airport in Tbilisi. Ticket and luggage check-in and flight to Warsaw. Landing in Warsaw. Departure to Gdańsk. Landing in Gdańsk. End of the pilgrimage."
+      },
+      {
+        "day": "2 Day",
+        "info": "Breakfast. Departure to ancient Ephesus, one of the best-preserved cities of antiquity, taught by: St. John and St. Paul. A visit to the House of Our Lady - the place where, according to tradition, the Mother of God with St. John the Apostle. Transfer to Kuşadası. Accommodation at the hotel. Dinner and overnight."
+      },
+      {
+        "day": "3 Day",
+        "img": "assets/img/pammu.jpg",
+        "info": "Breakfast at the hotel and a visit to Pamukkale - snow-white limestone terraces, which was under the patronage of UNESCO, inscribing them on the World Natural Heritage List. Visiting the largest preserved Necropolis and a visit to the ancient city of Herapolis with the possibility of swimming in the Cleopatra Pool. On the way to the Aegean coast, the mass in Laodicea - one of the churches of St. John. Transfer to the hotel. Dinner and overnight."
+      },
+      {
+        "day": "4 Day",
+        "img": "assets/img/konya.jpg",
+        "info": "Breakfast, departure to Konya. Visiting the Church of St. Paul. Mevlana Museum - the founder of the order of the Dancing Dervishes. Transfer to Cappadocia. Hotel accommodation in Ürgüp. Dinner, overnight"
+      },
+      {
+        "day": "5 Day",
+        "info": "Breakfast, departure to Goreme. Visiting Derinkuyu (underground city), Uchisar, Zelve, Avanos, Devent, Ihlara gorge. Return to the hotel, accommodation. Dinner, overnight. Optional Turkish evening."
+      },
+      {
+        "day": "6 Day",
+        "img": "assets/img/kapadokya3.jpg",
+        "info": "Breakfast. Departure to Antioch, where it was founded after the Roman conquest in 64 AD and became the third city in the Western world after Rome and Alexandria. One of the first Christian communities outside the Middle East was established here, and Antioch was also an important point on the Silk Road. A 30 km long city wall stretches around the city. Transfer to the church of St. Peter, located 3.5 km outside the city, considered to be the oldest church built outside the Holy Land, the Holy Mass. Dinner. Overnight at a hotel in Antioch."
+      },
+      {
+        "day": "7 Day",
+        "img": "assets/img/day8.jpg",
+        "info": "Breakfast, departure to Tarsus, where St. Paul, the apostle, Theodore, and Diodorus of Tarsus. Visiting Cleopatra's Gate, sometimes also known as Paul's Gate, St. Paul. Holy Mass in the church of St. Paul. Drive to Kızkalesi. Hotel accommodation. Dinner, overnight."
+      },
+      {
+        "day": "8 Day",
+        "info": "Breakfast. All-day rest at the seaside. Dinner at the hotel, overnight."
+      },
+      {
+        "day": "9 Day",
+        "img": "assets/img/beaches.jpg",
+        "info": "Breakfast. All-day rest at the seaside. Dinner at the hotel, overnight."
+      },
+      {
+        "day": "10 Day",
+        "info": "Breakfast. Transfer to Antalya airport. Departure to Poland."
+      }
+    ]
+  },
+  "armeGeoOfferTitle": {
+    "menu": {
+      "heading": "Pilgrimage To Armenia And Georgia"
+    }
+  },
+  "armeGeo": {
+    "menu": [
+      {
+        "day": "1 Day",
+        "info": "Meeting of participants at the airport in Gdańsk Rębiechowo. Bag and ticket check-in, then departure to Warsaw, landing in the Polish capital. Departure to Yerevan."
+      },
+      {
+        "day": "2 Day",
+        "img": "assets/img/matenadaran.jpg",
+        "info": "Landing in the capital of Armenia. Breakfast. Then, visiting Yerevan with a local guide, incl. visit to Matendaran - a repository of ancient Armenian manuscripts, where over 15,000 manuscripts are collected. Drive along a picturesque road across the Ararat plain to the Khor-Virap Monastery, which is located closest to Mount Ararat in the territory of Armenia. Return to the hotel for dinner and overnight stay. Transfer to the town of Echmiadzin, the seat of the Supreme Patriarch of the Armenian Church. Visiting the Church of St. Rypsyma and the Gajane Church. Transfer to Zwartnoc. It is a town located in the province of Armavir, about 15 km west of the capital of the country, Yerevan, famous for the ruins of the cathedral from the 7th century. Return to the hotel. Dinner and overnight."
+      },
+      {
+        "day": "3 Day",
+        "img": "assets/img/geghard.jpg",
+        "info": "Breakfast at the hotel and drive to Geghard - visiting the impressive monastery, consisting of three temples and a mighty mausoleum carved into the rocks. Then drive to Garni, where we will see a pagan temple, the only ancient building of this type, the remains of which have survived to this day. We will visit the Temple of the Sun and the complex of royal ancient baths. A visit to the factory of the famous Ararat cognac. Return to Yerevan and free time. Dinner and overnight."
+      },
+      {
+        "day": "4 Day",
+        "img": "assets/img/stepantsminda.jpg",
+        "info": "Breakfast and departure from Yerevan towards the border. Drive to Stepantsminda, there is a museum dedicated to the Georgian writer from here - Alexander Kazbegi. A ride along the so-called Georgian military road to Kazbegi. Visiting the village, then drive to Gudauri, dinner and overnight."
+      },
+      {
+        "day": "5 Day",
+        "img": "assets/img/ananuri_fortress.jpg",
+        "info": "Breakfast at the hotel and drive to the Ananuri fortress, picturesquely situated on the Aragvi River. The fortress belonging to the Dukes of Aragvi was built in the 16th century. Visit to the 11th century Bagrati Cathedral. Transfer to Mtskheta. Sightseeing of the first capital of Georgia (from the 3rd to the 5th century) with the beautiful Svetitskhoveli cathedral and the fortified monastery of Jvari from the 6th century located near the city. Transfer to Tblisi, sightseeing, dinner and accommodation at the hotel."
+      },
+      {
+        "day": "6 Day",
+        "img": "assets/img/tbilisi.jpg",
+        "info": "Breakfast at the hotel, then a tour of Tbilisi with a local guide, incl. Old Town, Narikala Fortress, Metekhi Church, Sioni Cathedral with the cross of St. Nino, the monument to Kartlis Deda - the guardian of Tbilisi, Sachino - the palace of Queen Daredjan. Visit to the National Museum. Free time. Return to the hotel for dinner and overnight stay."
+      },
+      {
+        "day": "7 Day",
+        "img": "assets/img/telavi.jpg",
+        "info": "Breakfast at the hotel, drive to Kachtia - an area in eastern Georgia with the capital in Telavi. It borders Russia in the north, Azerbaijan in the south and east, and the Lower Kartlia and Mtskheta-Mtianeti regions in the west. Visiting the Alaverdi Monastery - built in the 11th century, during the unification and the formation of a strong feudal state, it was the most significant temple in all of Kakheti and wine tasting. Transfer to Sighnaghi - a town famous for the production of wine and carpets. Wine tasting. Return to Tblisi, dinner and overnight stay."
+      },
+      {
+        "day": "8 Day",
+        "img": "assets/img/borjomi.jpg",
+        "info": "Breakfast at the hotel and then drive towards Borjomi, to Georgian National Park, one of the largest in Europe. Transfer to the town of Wardzia. There is a rock town from Georgia's Golden Age, built in the 12th century by King George III. The largest of the three existing rock towns in Georgia, where monks still live today. Then visiting the Chertwisi fortress. Departure to Batumi. Dinner and overnight."
+      },
+      {
+        "day": "9 Day",
+        "img": "assets/img/batumi.jpg",
+        "info": "Breakfast at the hotel and sightseeing Batumi - a city in southwest Georgia, on the Black Sea coast and its surroundings. Visiting the Botanical Garden and tea fields. In the evening, return to the hotel, dinner and lunch."
+      },
+      {
+        "day": "10 Day",
+        "info": "Breakfast at the hotel and free time in Batumi. In the evening, return to the hotel, dinner and lunch."
+      },
+      {
+        "day": "11 Day",
+        "img": "assets/img/kutaisi.jpg",
+        "info": "Breakfast at the hotel and free time until 14.00. Then drive to Tblisi, short sightseeing of Kutaisi on the way. Georgian night in the evening, half night at the hotel and departure to the airport."
+      },
+      {
+        "day": "12 Day",
+        "info": "Transfer to the airport in Tbilisi. Ticket and luggage check-in and flight to Warsaw. Landing in Warsaw. Departure to Gdańsk. Landing in Gdańsk. End of the pilgrimage."
+      }
+    ]
+  },
+  "aboutus": {
+    "menu": [
+      {
+        "heading": "About Dozami Travel",
+        "about": "Our company, based in Urgup, has been operating on the Turkish market since 1996. We are a member of TURSAB - the Turkish Association of Tourist Agencies. We specialize in organizing trips for Tour operators to Turkey - holiday trips, tours, integration events, pilgrimages and many more. The motto of our company is good quality at a reasonable price. The professional experience gained by us over 16 years guarantees the reliability of the service. We are able to meet more and more demanding customers in terms of quality and price of the event, transport safety, hotel base, event programs and professional service. The Dozami Travel company is a guarantee of a successful and peaceful rest. We cordially invite you to our offer!",
+        "partner": "Our Partners"
+      }
+    ]
+  },
+  "contact": {
+    "menu": {
+      "text": "Contact"
+    }
+  }
+}

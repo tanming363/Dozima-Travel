@@ -1,5 +1,6 @@
 .active {
   background-color: #80808017;
+  color: black;
 }
 .nav-item:hover {
   background-color: #80808017;
@@ -10,7 +11,10 @@
 .dropdown:hover > .dropdown-menu {
   display: block;
 }
-
+// .dropdown-item:focus {
+//   background: #e9ecef;
+//   color: black;
+// }
 @media only screen and (max-width: 767px) {
   .nav-item {
     text-align: center;
@@ -18,8 +22,11 @@
   .active {
     border-bottom: none;
   }
+  .material-icons {
+    display: none;
+  }
 }
-.dropdown-item:focus {
-  background: #e9ecef;
-  color: black;
+
+a {
+  cursor: pointer;
 }

@@ -1,0 +1,244 @@
+{
+  "header1": {
+    "menu": {
+      "text": "Home"
+    }
+  },
+  "header2": {
+    "menu": {
+      "text": "Oferta"
+    }
+  },
+  "header3": {
+    "menu": {
+      "text": "Turcji"
+    }
+  },
+  "header4": {
+    "menu": {
+      "text": "Armenia i Gruzja"
+    }
+  },
+  "header5": {
+    "menu": {
+      "text": "O Firmie "
+    }
+  },
+  "header6": {
+    "menu": {
+      "text": "Kontakt"
+    }
+  },
+  "header7": {
+    "menu": {
+      "text": "Język"
+    }
+  },
+  "footer": {
+    "menu": {
+      "text": "Miejsce"
+    }
+  },
+  "footer2": {
+    "menu": {
+      "text": "Wybierz Miejsce Docelowe"
+    }
+  },
+  "aboutTurkey": {
+    "menu": {
+      "aboutTurkeyTitle": "O Turcji",
+      "aboutTurkey": "Niewiele krajów na świecie ppodlegało tak wielu przemianom jak Turcja, będąca historycznym mostem między Wschodem a Zachodem, Europą a Azją. Prawie każdy naród zamieszkujący kiedyś te tereny pozostawił po sobie jakies ślady - Od Akadów, poprzez Asyryjczyków, Hetytów i Greków, Rzymian Aleksandra Wielkiego i czasów Bizantyjskich, po Turków Osmańskich. Dzisiejsza Turcja jest w dużym stopniu dziełem Kamela Ataturka - Ojca Turków, którego siła i osobowość pozwoliły na jej europeizację. Kulturalne i historyczne bogactwo Turcji to przede wszystkim meczety, kościoły i podziemne miasta chrześcijańskie, stanowiska archeologiczne oraz pozostałości miast starożytnych. Ponadto kraj ten jest bardzo bogaty w różnego rodzaju krajobrazy oraz atrakcje przyrodnicze. Przemierzając Turcję można podziwiać wspaniałe plaże, wodospady, ogromne jeziora, łańcuchy górskie bogate w zieleń oraz te całkiem kamienne. Prawdziwym skarbem Turcji jest Kapadocja - kraina bajkowych kamiennych kominów - pozostałość powulkaniczna. Innych zachwycą białe tarasy z trawertynu w Pamukkale, zabytek wpisany na listę UNESCO. Turcja jest miejscem bardzo atrakcyjnym nie tylko latem! Mało kto wie, że zimą w Turcji działa wiele ośrodkó narciarskich, a w niektórych miejscach temperatura zimą jest niższa niż w Polsce"
+    }
+  },
+  "popAttrTitle": {
+    "menu": {
+      "heading": "Najpopularniejsze Atrakcje"
+    }
+  },
+  "popAttr": {
+    "menu": [
+      {
+        "popTitle": "Ephesus",
+        "popInfo": "Efez (starogrecki: Ἔφεσος Efesos; turecki: Efes; może ostatecznie czerpać z Hittite Apasa) był starożytne greckie miasto na wybrzeżu Ionii, trzy kilometry południowy zachód od dzisiejszego Selçuk w prowincji Izmir, Indyk. Został zbudowany w 10 wieku pne na miejscu były Stolica Arzawan przez Attykę i Jońską Grekę koloniści. W epoce klasycznej Grecji był to jeden z dwanaście miasta Ligi Jońskiej. Miasto rozkwitło po przejęciu go przez Republikę Rzymską w 129 rpne.",
+        "popImg": "assets/img/ephesus.jpg",
+        "popLink": "https://pl.wikipedia.org/wiki/Efez",
+        "popRead": "Czytaj więcej..."
+      },
+      {
+        "popTitle": "HZ. Dom Marii Panny",
+        "popInfo": "Dom Marii Panny znajduje się 9 km od Selcuk. W oddali znajduje się na górze Bülbül. 4 lub 6 lat po śmierci Jezusa św. Wiadomo, że Jan przyniósł Dziewicę Maryję do Efezu. W 1891 r. Kapłani Lazarist odkryli, że domem, w którym Dziewica Maryja spędziła ostatnie dni, na marzeniu niemieckiej zakonnicy A. Catherine Emmerick był ten dom. To wydarzenie było zupełnie nowym wynalazkiem w świecie chrześcijańskim i rzuciło światło na świat religii. Ten planowany na krzyż budynek z kopułą został później przywrócony. Po wizycie papieża Pawła w 1967 r. Dom jest uważany przez muzułmanów za święte miejsce.",
+        "popImg": "assets/img/meryem.jpg",
+        "popLink": "https://www.hzmeryemanaevi.com",
+        "popRead": "Czytaj więcej..."
+      }
+    ]
+  },
+  "otherAttrTitle": {
+    "menu": {
+      "heading": "Inne Atrakcje"
+    }
+  },
+  "otherAttr": {
+    "menu": [
+      {
+        "otherTitle": "Pamukkale",
+        "otherInfo": "Pamukkale (tur. Bawełniany zamek lub Bawełniana twierdza) – turecka miejscowość położona w dolinie Cürüksu (w starożytności zwanej Doliną Lycos), około 18 km od Denizli. Słynie z wapiennych osadów powstałych na zboczu góry Cökelez.",
+        "otherImg": "assets/img/pamukkale.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Pamukkale",
+        "otherRead": "Czytaj więcej..."
+      },
+      {
+        "otherTitle": "Ayasofya",
+        "otherInfo": "Hagia Sophia (Ayasofya) muzeum w Stambule (dawny Konstantynopol), w przeszłości świątynia chrześcijańska, następnie meczet. Uważana za najwspanialszy obiekt architektury i budownictwa pierwszego tysiąclecia naszej ery.",
+        "otherImg": "assets/img/blue.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Hagia_Sophia",
+        "otherRead": "Czytaj więcej..."
+      },
+      {
+        "otherTitle": "Kappadokía",
+        "otherInfo": "Kapadocja – kraina historyczna w środkowej Turcji i centralnej części Anatolii, znana przede wszystkim z charakterystycznych form tufowych, tworzących księżycowy krajobraz, oraz z domów i kościołów wykutych w tych wulkanicznych skałach.",
+        "otherImg": "assets/img/kap.jpg",
+        "otherLink": "https://pl.wikipedia.org/wiki/Kapadocja",
+        "otherRead": "Czytaj więcej..."
+      }
+    ]
+  },
+  "turkeyOfferTitle": {
+    "menu": {
+      "heading": "PIELGRZYMKA DO TURCJI 10 DNI"
+    }
+  },
+  "turkey": {
+    "menu": [
+      {
+        "heading": "Najpopularniejsze Atrakcje"
+      },
+      {
+        "day": "1 dzień",
+        "img": "assets/img/ephesus.jpg",
+        "info": "Zbiórka uczestników pielgrzymki w wyznaczonym miejscu i godzinie. Przejazd na lotnisko . Wylot do Antalyi. Lądowanie. Przejazd do Kuşadası*. Zakwaterowanie. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie. Wyjazd do starożytnego Efezu , jednego z najlepiej zachowanych miast starożytności, w którym nauczali: św. Jan i św. Paweł. Wizyta w Domku Matki Bożej –miejscu, w którym wg tradycji zamieszkiwała Matka Boża ze św. Janem Apostołem. Przejazd do Kuşadası Zakwaterowanie w hotelu . Obiadokolacja i nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "img": "assets/img/pammu.jpg",
+        "info": "Śniadanie w hotelu i zwiedzanie Pamukkale – śnieżnobiałych tarasów wapiennych, które objęło patronatem UNESCO, wpisując je na listę światowego dziedzictwa przyrodniczego. Zwiedzanie największego zachowanego Nekropolis oraz wizyta w starożytnym mieście Herapolis z możliwością kąpieli w basenie Kleopatry. W drodze na wybrzeże egejskie msza święta w Laodycei - jednego z kościołów św. Jana. Przejazd do hotelu. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "img": "assets/img/konya.jpg",
+        "info": "Śniadanie, wyjazd do Konyi. Zwiedzanie kościoła św. Pawła. Muzeum Mevlany –założyciela zakony Tańczących Derwiszów. Przejazd do Kapadocji. Zakwaterowanie w hotelu w Ürgüp. Obiadokolacja, nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Śniadanie, wyjazd do Konyi. Zwiedzanie kościoła św. Pawła. Muzeum Mevlany –założyciela zakony Tańczących Derwiszów. Przejazd do Kapadocji. Zakwaterowanie w hotelu w Ürgüp. Obiadokolacja, nocleg."
+      },
+      {
+        "day": "6 dzień",
+        "img": "assets/img/kapadokya3.jpg",
+        "info": "Śniadanie. Wyjazd do Antiochii, gdzie powstała po podboju rzymskim w 64 r n. e stała się trzecim po Rzymie i Aleksandrii miastem świata zachodniego. Tu powstała jedna z pierwszych poza Bliskim Wschodem społeczność chrześcijańska, Antiochia była też ważnym punktem Jedwabnego Szlaku. Wokół miasta rozciąga się mur miejski o długości 30 km. Przejazd do kościoła św. Piotra, znajdującego się 3,5 km poza miastem, uważanego za najstarszy kościół zbudowany poza Ziemią Świętej, msza św. Obiadokolacja. Nocleg w hotelu w Antiochii."
+      },
+      {
+        "day": "7 dzień",
+        "img": "assets/img/day8.jpg",
+        "info": "Breakfast, departure to Tarsus, where St. Paul, the apostle, Theodore, and Diodorus of Tarsus. Visiting Cleopatra's Gate, sometimes also known as Paul's Gate, St. Paul. Holy Mass in the church of St. Paul. Drive to Kızkalesi. Hotel accommodation. Dinner, overnight stay."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie. Całodzienny wypoczynek nad morzem. Obiadokolacja w hotelu, nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "img": "assets/img/beaches.jpg",
+        "info": "Śniadanie. Całodzienny wypoczynek nad morzem. Obiadokolacja w hotelu, nocleg."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie. Transfer na lotnisko w Antalyi. Wylot do Polski."
+      }
+    ]
+  },
+  "armeGeoOfferTitle": {
+    "menu": {
+      "heading": "pielgrzymka do armenii i gruzji"
+    }
+  },
+  "armeGeo": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Zbiórka uczestników na lotnisku w Gdańsku Rębiechowie. Odprawa bagażowo-biletowa, następnie wylot do Warszawy, lądowanie w stolicy Polski. Wylot do Erywania."
+      },
+      {
+        "day": "2 dzień",
+        "img": "assets/img/matenadaran.jpg",
+        "info": "Lądowanie w stolicy Armenii. Śniadanie. Następnie zwiedzanie Erywania z przewodnikiem miejscowym, m.in. wizyta w Matendaran – repozytorium dawnych rękopisów ormiańskich, gdzie zebranych jest ponad 15 000 manuskryptów. Przejazd malowniczą drogą przez równinę Araratu do klasztoru Khor-Virap, który położony jest najbliżej Góry Ararat na terytorium Armenii. Powrót do hotelu na obiadokolację i nocleg. Przejazd do miejscowości Eczmiadzyn, siedziby najwyższego patriarchy Kościoła Ormiańskiego. Zwiedzanie kościoła św. Rypsymy oraz kościoła Gajane. Przejazd do Zwartnoc. Jest to miejscowość położona w prowincji Armawir ok. 15 km na zachód od stolicy kraju, Erywania, słynąca z ruin katedry z VII wieku. Powrót do hotelu. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "img": "assets/img/geghard.jpg",
+        "info": "Śniadanie i wyjazd z Erywania w stronę granicy. Przejazd do Stepancmindzie znajduje się muzeum poświęcone, pochodzącemu stąd, gruzińskiemu pisarzowi – Aleksandrowi Kazbegiemu. Przejazd fragmentem tzw. „gruzińskiej drogi wojennej” do miejscowości Kazbegi. Zwiedzanie miejscowości, następnie przejazd do Gudauri, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "img": "assets/img/stepantsminda.jpg",
+        "info": "Śniadanie i wyjazd z Erywania w stronę granicy. Przejazd do Stepancmindzie znajduje się muzeum poświęcone, pochodzącemu stąd, gruzińskiemu pisarzowi – Aleksandrowi Kazbegiemu. Przejazd fragmentem tzw. „gruzińskiej drogi wojennej” do miejscowości Kazbegi. Zwiedzanie miejscowości, następnie przejazd do Gudauri, obiadokolacja i nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "img": "assets/img/ananuri_fortress.jpg",
+        "info": "Śniadanie w hotelu i przejazd do twierdzy Ananuri, malowniczo położonej nad rzeką Aragwi. Należąca do książąt Aragwi forteca powstała w XVI w. Wizyta w katedrze Bagrati pochodzącej z XI w. Przejazd do Mcchety. Zwiedzanie pierwszej stolicy Gruzji (od III do V w.) z przepiękną katedrą Svetitskhoveli oraz położonego w pobliżu miasta klasztoru obronnego Jvari z VI w. Przejazd do Tblisi, zwiedznie, obiadokolacja i nocleg w hotelu."
+      },
+      {
+        "day": "6 dzień",
+        "img": "assets/img/tbilisi.jpg",
+        "info": "Śniadanie w hotelu, następnie zwiedzanie Tbilisi z przewodnikiem miejscowym, m.in. Stare Miasto, twierdza Narikala, cerkiew Metechi, katedra Sioni z krzyżem św. Nino, pomnik Kartlis Deda – strażniczki Tbilisi, Saczino - pałac królowej Daredżan. Wizyta w Muzeum Narodowym. Czas wolny. Powrót do hotelu na obiadokolację i nocleg."
+      },
+      {
+        "day": "7 dzień",
+        "img": "assets/img/telavi.jpg",
+        "info": "Śniadanie w hotelu, przejazd do Kachtii – obszaru we wschodniej Gruzji ze stolicą w Telawi. Na północy graniczy z Rosją, na południu i wschodzie z Azerbejdżanem oraz na zachodzie z regionami Dolna Kartliai Mccheta-Mtianetia. Zwiedzanie monastyru Alaverdi - zbudowany w XI w, w okresie zjednoczenia i powstania mocnego feudalnego państwa, był najbardziej znaczącą świątynią w całej Kachetii oraz degustacja wina. Przejazd do Sighnaghi – miejscowości słynącej z produkcji wina i dywanów. Degustacja wina. Powrót do Tblisi, obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "img": "assets/img/borjomi.jpg",
+        "info": "Śniadanie w hotelu i następnie przejazd w kierunku Borjomi, do gruzińskiego Parku Narodowego, jednego z największych w Europie. Przejazd do miejscowości Wardzia. Znajduje się tu skalne miasto ze „Złotego Wieku” Gruzji, zbudowane w XII w. przez króla Jerzego III. Największe z trzech istniejących miast skalnych Gruzji, gdzie do dzisiaj w części mieszkają mnisi. Następnie zwiedzanie twierdzy Chertwisi. Wyjazd do Batumi. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "img": "assets/img/batumi.jpg",
+        "info": "Śniadanie w hotelu i zwiedzanie Batumi – miasto w południowo-zachodniej Gruzji, na wybrzeżu Morza Czarnego oraz jego okolic. Zwiedzanie Ogrodu Botanicznego oraz pól herbaty. Wieczorem powrót do hotelu, obiadokolacja i obiad."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu i czas wolny w Batumi. Wieczorem powrót do hotelu, obiadokolacja i obiad."
+      },
+      {
+        "day": "11 dzień",
+        "img": "assets/img/kutaisi.jpg",
+        "info": "Śniadanie w hotelu i do godziny 14.00 czas wolny. Następnie przejazd do Tblisi, po drodze krótkie zwiedzanie Kutaisi. Wieczorem noc gruzińska, pół nocy w hotelu i wyjazd na lotnisko."
+      },
+      {
+        "day": "12 dzień",
+        "info": "Transfer na lotnisko w Tbilisi. Odprawa biletowo-bagażowa i wylot do Warszawy. Lądowanie w Warszawie. Wylot do Gdańska. Lądowanie w Gdańsku. Zakończenie pielgrzymki."
+      }
+    ]
+  },
+  "aboutus": {
+    "menu": [
+      {
+        "heading": "O Dozami Travel",
+        "about": "Nasza firma, z siedzibą w Urgup, działa na rynku tureckim od 1996 roku. Jesteśmy członkiem TURSAB - Tureckiego Stowarzyszenia Agencji Turystycznych. Specjalizujemy się w organizowaniu wyjazdów dla Touroperatorów do Turcji - wczasny, wycieczki objazdowe, imprezy integracyjne, pielgrzymki i wiele innych. Dewizą naszej firmy jest dobra jakość za rozsądną cenę. Doświadczenie zawodowe zdobyte przez nas na przestrzeni 16 lat gwarantuje Państwu rzetelność wykonania usługi. Jesteśmy w stanie sprostać coraz bardziej wymagającym klientom pod względem jakości, jak i ceny imprezy, bezpieczeństwa przejazdu, bazy hotelowej, programów imprez oraz profesjonalnej obsługi. Firma Dozami Travel to gwarancja udanego i spokojnego wypoczynku. Serdecznie zapraszany do naszej oferty!",
+        "partner": "Nasi Partnerzy"
+      }
+    ]
+  },
+  "contact": {
+    "menu": {
+      "text": "Kontakt"
+    }
+  }
+}

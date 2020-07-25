@@ -6,10 +6,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./armenia-georgia.component.scss']
 })
 export class ArmeniaGeorgiaComponent implements OnInit {
+  dozamiAll: any;
 
   constructor() { }
 
   ngOnInit(): void {
+ 
   }
+
 
 }

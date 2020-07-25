@@ -1,40 +1,15 @@
 <div>
         <img src="assets/img/about.jpg" class="img-fluid">
 
-        <div class="card col-sm-6 mx-auto border-0 rounded shadow">
+        <div class="card col-sm-6 mx-auto border-0 rounded shadow" *ngFor="let menu of 'aboutus.menu'| translate">
                 <div class="card-header border-0 bg-white">
-                        <h3 class="card-title"><span>O Dozami Travel</span></h3>
+                        <h3 class="card-title"><span>{{menu.heading}}</span></h3>
                 </div>
                 <div class="card-body border-0 pt-0">
                         <p class="card-text">
-                                Nasza firma, z siedzibą w Urgup, działa na rynku tureckim od 1996 roku. Jesteśmy
-                                członkiem TURSAB -
-                                Tureckiego
-                                Stowarzyszenia Agencji Turystycznych. Specjalizujemy się w organizowaniu
-                                wyjazdów dla
-                                Touroperatorów do
-                                Turcji -
-                                wczasny, wycieczki objazdowe, imprezy integracyjne, pielgrzymki i wiele innych.
-                                Dewizą
-                                naszej firmy jest
-                                dobra
-                                jakość za
-                                rozsądną cenę. Doświadczenie zawodowe zdobyte przez nas na przestrzeni 16 lat
-                                gwarantuje
-                                Państwu
-                                rzetelność
-                                wykonania
-                                usługi. Jesteśmy w stanie sprostać coraz bardziej wymagającym klientom pod
-                                względem
-                                jakości, jak i ceny
-                                imprezy,
-                                bezpieczeństwa przejazdu, bazy hotelowej, programów imprez oraz profesjonalnej
-                                obsługi.
-                                Firma Dozami Travel to gwarancja udanego i spokojnego wypoczynku.
-                                Serdecznie zapraszany do naszej oferty!
+                                {{menu.about}}
                         </p>
-
-                        <p class="h5 mb-3">Nasi Partnerzy</p>
+                        <p class="h5 mb-3">{{menu.partner}}</p>
                         <div class="scroll">
                                 <div class="row">
                                         <div class="col-2 scroll-box">
