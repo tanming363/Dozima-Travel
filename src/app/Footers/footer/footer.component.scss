@@ -29,6 +29,22 @@ span:hover {
 .footer-tanmay:after {
   margin-left: 10px;
 }
-.text-footerTxt{
+.text-footerTxt {
   cursor: pointer;
+}
+.tan-hover {
+  text-decoration: none;
+}
+.tan-hover:hover {
+  text-decoration: underline;
+}
+.material-icons {
+  border: 1px solid;
+  padding: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.material-icons:hover {
+  transform: translate(0, -5px);
+  transition: all 0.3s;
 }

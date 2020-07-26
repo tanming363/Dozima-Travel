@@ -21,4 +21,8 @@ export class FooterComponent  {
     this.translate.use(language);
     this.switchLang = language;
   }
+
+  goTop() {
+    window.scroll(0, 0);
+  }
 }
