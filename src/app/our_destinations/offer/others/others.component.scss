@@ -1,0 +1,33 @@
+.card-country {
+  transition: all ease 0.1s;
+  border-radius: 30px;
+  border: none;
+}
+.active {
+  border: 1.5px solid;
+}
+span {
+  font-size: 18px;
+  font-weight: 500;
+}
+.row-div {
+  padding: 1rem;
+}
+.bi-geo-alt {
+  margin-bottom: 5px;
+}
+@media only screen and (max-width: 767px) {
+  span {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .bi-geo-alt {
+    height: 1em;
+    width: 1em;
+    margin-bottom: 3px;
+  }
+  .row-div {
+    padding: 0.5rem;
+  }
+  
+}

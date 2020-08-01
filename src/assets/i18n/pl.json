@@ -244,5 +244,427 @@
     "menu": {
       "text": "Kontakt"
     }
+  },
+  "otherOffers": {
+    "menu": {
+      "text": "Inne oferty"
+    }
+  },
+  "otherOffers1": {
+    "menu": {
+      "text": "GRUZJA- TURCJA WSCHODNIA"
+    }
+  },
+  "otheroff1": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Zbiórka uczestników wycieczki na lotnisku Chopina w Warszawie. Wylot z Warszawy późnym wieczorem o godz. 23:55 i lot bezpośredni do Kutaisi w Gruzji."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Przylot do Kutaisi, na miejscu o godz. 05:20. Zakwaterowanie w hotelu, odpoczynek, następnie zwiedzanie Kutaisi.Kutaisi, miasto w zachodniej Gruzji, znajduje się nad rzeką Rioni, na wysokości 125 – 300 m n.p.m. Warto zatrzymać się tutaj na dłużej, bo miasto pełne jest zabytków, które stanowią dowód długiej i interesującej historii tego zakątka. Kutaisi było niegdyś stolicą m.in. Imperium Abchaskiego i królestwa Imeretii. Koniecznie trzeba tu zobaczyć Katedrę Bagrata i Monastyr Gelati – obie atrakcje widnieją na liście światowego dziedzictwa UNESCO.Obiadokolacja, nocleg w Kutaisi."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Po śniadaniu wyjazd do Batumi.Batumi miasto na wybrzeżu Morza Czarnego,stolica autonomicznej republiki Adżarii. Trzecie co do wielkości miasto kraju (po Tbilisi i Kutaisi).Do najważniejszych atrakcji miasta należą: turecki meczet z drugiej połowy XIX wieku, dawna eklektyczna zabudowa willowa, Park Przymorski, Ogród Botaniczny, Uniwersytet (leżący bezpośrednio przy plaży nadmorskiej), synagoga, dawny kościół katolicki z początku XX wieku. Po zwiedzaniu miasta wyjazd w kierunku Turcji, przekroczenie granicy gruzińsko-tureckiej. Przejaz do Trabzon ( staroż, Trapezunt), miasta położonego nad Morzem Czarnym. Zakwaterowanie w hotelu w Trabzon, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie w hotelu. Zwiedzanie Trabzon. Miasto zostało założone przez greckich kupców z Miletu w 756 p.n.e. na szlaku jedwabnym. W średniowieczu ośrodek Cesarstwa Trapezuntu. Do I wojny światowej był zamieszkany przez prawosławnych Greków i innych chrześcijan, którzy w latach 1917–1921 utworzyli niezależną Republikę Pontyjską. W Trabzon można zobaczyć 10 prastarych kościołów, świadectw złotego wieku bizantyjskiego.Zwiedzanie kościoła Ayasofia z połowy XIII w, będącego przykładem doskonałości proporcji, w którym można podziwiać freski przedstawiające stworzenie świata.Przejazd krętą dorgą z Trabzon do miasteczka Maçka a stamtąd do parku Sumela. Wspinaczka do Monasteru Sumela, zbudowanego w epoce bizantyjskiej w VI w n.e pod wezwaniem Błogosławonej Marii Panny. Monaster opustoszał w 1923 r po wymianie ludności greckiej i tureckiej.Powrót do hotelu w Trabzon. Obiadokolacja, nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Śniadanie w hotelu. Przejazd do Erzurum (staroż. Teodozjopolis), leżącego w dolinie pośród gór, których szczyty sięgają 3 tys. m n.p.m. W starożytności miasto nazywało się Camacha i należało do królestwa Armenii.Pod koniec IV n.e powstało tu warowne miasto bizantyjskie nazwane od imienia cesarza Teodozjusza Teodozjopolis. Obecną nazwę nadali mu turcy Sedżuccy w XII w. Zwiedzanie medresy Çifte Minareli trzynastowıecznej uczelni, wielkiego meczetu Ulu Camii, twierdzy miejskiej Erzurum Kalesi oraz seldżuckiego minaretu Tepsi Minare , symbolu miasta . Przejazd do hotelu w Erzurum, obiadokolacja i nocleg."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie i przejazd do Van. Początki starego Van sięgają antycznej Tuszpy, stolicy królestwa urartyjskiego. Okres rozkwitu miasta przypada na IX-VIII w p.n.e, zwłaszcza za panowania króla Menui, za którego panowania miasto stało się pierwszą potęgą tej części świata.Od II w p.n.e za panowania ormiańskiego króla Walaszawa miasto zamieszkiwali głównie Ormianie, aż do masakr w 1915-1916 r.Przyjazd do Van, zakwaterowanie w hotelu w Van, obiadokolacja, nocleg."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Śniadanie i przejazd do Van. Początki starego Van sięgają antycznej Tuszpy, stolicy królestwa urartyjskiego. Okres rozkwitu miasta przypada na IX-VIII w p.n.e, zwłaszcza za panowania króla Menui, za którego panowania miasto stało się pierwszą potęgą tej części świata.Od II w p.n.e za panowania ormiańskiego króla Walaszawa miasto zamieszkiwali głównie Ormianie, aż do masakr w 1915-1916 r.Przyjazd do Van, zakwaterowanie w hotelu w Van, obiadokolacja, nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie w hotelu.Wyjazd do Doğubeyazıt.Zwiedzanie pałacu Işak Paşa, budowanego ponad 100 lat i ukończonego w 1784 r przez kurdyjskiego władcę Işaka. Z pałacu jest imponujący widok na górę Ararat. Zakwaterowanie w hotelu w Doğubeyazıt. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "info": "Śniadanie w hotelu. Przejazd do Kars. Ani - ruiny miasta na wschodzie obecnej Turcji przy granicy z Armenią. Nazwa Ani jest prawodpodobnie zniekształceniem imienia perskiej bogini Anahis . Przed przyjęciem przez naród ormiański chrześcijaństwa to właśnie ona zajmowała czołowe miejsce w ormiańśkim panteonie .Dawniej Ani było najwspanialszym ze wszystkich ormiańskich miast i zwane było miastem 1000 i jednego kościoła. Złoty wiek Ani rozpoczął się w połowie X w , kiedy włądcy wybrali Ani na stolicę Armenii. Zwiedzanie terenu o powierzchni 5 ha, na którym znajdują się zabytki kościelne, pozostałości murów i czterech bram miasta oraz pałaców Turków Seldżuckich i klasztor. Zakwaterowanie w hotelu w Kars. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu. Przejazd na granicę turecko-gruzińską, przekroczenie granicy ,przejazd do stolicy Gruzji Tibilisi. Po drodze zwiedzanie Akhaltsikhe (podziwianie twierdzy z zewnątrz) oraz monasteru Saphara. Przejazd do Gori (miejsce urodzenia Józefa Stalina). Przejazd do Tibilisi, zakwaterowanie w hotelu w Tibilisi. Obiadokolacja, nocleg"
+      },
+      {
+        "day": "11 dzień",
+        "info": "Śniadanie w hotelu. Przejazd do Mccheta. Mccheta jest jednym z najstarszych miast Gruzji. Położona na ważnym trakcie handlowym, łączącym brzeg Morza Czarnego z miastami na kaspijskim wybrzeżu istniała już w głębokiej starożytności. Przez kilka wieków Mccheta była stolicą gruzińskiego królestwa Iberii (od III wieku p.n.e. aż do V wieku n.e., gdy król Wachtang Gorgasali przeniósł stolicę do Tbilisi). Rezydujący w Mcchecie iberyjski król Mirian III w 317 r. przyjął chrześcijaństwo, dlatego też miasto do dziś jest siedzibą najwyższych władz Gruzińskiego Kościoła Prawosławnego. Zwiedzanie katedry Sweti Cchoweli), perły architektury gruzińskiej (na Liście Światowego Dziedzictwa UNESCO) – niegdyś siedziby patriarchy i miejsca konsekracji królów. Starożytne źródło chrzcielne, replika Grobu Bożego z Jerozolimy. Przejazd do Katskhi. Zwiedzanie Klasztoru Gelati wpisanego Listę UNESCO. Klasztor pochodzi z XI wieku, a w czasach największej świetności w XII wieku był centrum nauki i kultury. Są tam trzy kościoły – największa, katedra Matki Boskiej z pięknymi freskami i mozaiką z XII wieku, kościół św. Jerzego i malutki kościół św. Mikołaja na wysokiej podmurówce z łukowatym przejściem do mieszczącej się obok Akademii.Zakwaterowanie w hotelu w Katskhi, kolacja.Wyjazd na lotnisko do Kutaisi ok. 2: 00."
+      },
+      {
+        "day": "12 dzień",
+        "info": "Transfer na lotnisko w Kutaisi. WYLOT GODZ. 5:50. Przelot do Warszawy. Zakończenie wyprawy."
+      }
+    ]
+  },
+  "otherOffers2": {
+    "menu": {
+      "text": "TURCJA 8 DNI – WYCIECZKA OBJAZDOWA"
+    }
+  },
+  "otheroff2": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Przelot na lotnisko w Stambule. Po przylocie zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu i zwiedzanie obiektów kulturowych: Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Topkapi - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw. klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Wycieczka statkiem (fakultatywnie) wzdłuż cieśniny Bosfor łączącej Morze Czarne z Morzem Marmara, położona między Półwyspem Bałkańskim a Azją Mniejszą, oddziela Europę od Azji.Obiadokolacja i nocleg w hotelu."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu wcześnie rano i przejazd do Kapadocji. Po drodze do Kapadocji przejazd przez Ankarę – stolicę Turcji i zwiedzanie Muzeum Ataturka. W dalszej drodze zwiedzanie Tuz – jeziora solnego w środkowej Turcji - drugie największe pod względem wielkości. Przyjazd do Kapadocji, zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie w hotelu całodniowe zwiedzanie Kapadocji słynącej z bajkowych krajobrazów: Uchisar (wieża Uchisar), Goreme , Zelve, Avanos, Devrent, zwiedzanie podziemnego miasta. Wieczorem powrót do hotelu, obiadokolacja."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Wcześnie rano śniadanie w hotelu i przejazd z Kapadocji do Pamukkale. Po drodze zwiedzanie Sultanhanı i Konyi – Dervis Muzeum. Przyjazd i zwiedzanie Pamukkale – śnieżnobiałych tarasów wapiennych, które objęło patronatem UNESCO, wpisując je na listę światowego dziedzictwa przyrodniczego. Zwiedzanie największego zachowanego Nekropolis oraz wizyta w starożytnym mieście Herapolis z możliwością kąpieli w basenie . Kleopatry. Obiadokolacja i nocleg w Pamukkale."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Efezu – jednego z najlepiej zachowanych miast portowych okresu jońskiego oraz zwiedzanie Domu Matki Boskiej. Przejazd do Kuşadası i czas wolny. Opcjonalnie zakupy w centrum Kusadaşı. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Rano śniadanie w hotelu i przejazd w stonę Stambułu. Po drodze zwiedzanie Bergamy - kompleksu archeologicznego ruin starożytnego Pergamonu znajdujego się na górującym nad współczesnym miastem akropolu. Na obrzeżach Bergamy znajduje się także inne stanowisko archeologiczne - ruiny dawnego Asklepionu. Przyjazd do Stambułu. Jeśli czas na to pozwoli zwiedzanie i zakupy na Wielkim Bazarze i Bazarze Egipskim."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie w hotelu i wyjazd na lotnisko w Stambule. Powrót do Polski."
+      }
+    ]
+  },
+  "otherOffers3": {
+    "menu": {
+      "text": "PIELGRZYMKA DO ARMENII, TURCJI WSCHODNIEJ I GRUZJI"
+    }
+  },
+  "otheroff3": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Zbiórka uczestników na lotnisku Okęcie w Warszawie. Odprawa bagażowo-biletowa i przelot z Warszawy do Erywania - stolicy Armenii. Transfer do hotelu, zakwaterowanie."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu. Przejazd do Eczmiadzynu, na miejscu zwiedzanie kościołów Świętej Rypsymy, Świętej Gajane i Świętej Szogakat oraz Chor Wirap.Wizyta w Zwartnoc - ruiny świątyni z VII w. Wieczorny posiłek w restauracji z akompaniamentem ormiańskiej muzyki folklorystycznej. Przejazd do hotelu i nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu a następnie zwiedzanie twierdzy Garni - letniej rezydencji królów Armenii, kolejno hellenistyczna świątynia Mitry. Przejazd na punkt widokowy na wąwóz rzeki Azat „Symfonia kamieni”. Kolejne obiekty kulturowe to Klasztor Siedmiu Kościołów i Czterdzieści Ołtarzy Geghard. Możliwość posłuchania koncertu muzyki sakralnej podczas Mszy świętej ormiańskiej w Klasztorze Geghard. Powrót do Erywania. Obiadokolacja w ormiańskiej restauracji i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie i przejazd do Gruzji. Przejazd do kompleksu obronnego Ananuri, przepięknie położonego nad rzeką Aragwi. Przejazd w stronę głównego miasta regionu – Kazbegi, podczas którego będziemy podziwiać widoki gór Kaukazu. Udamy się do Kościoła św. Trójcy (położonego na gruzińskiej drodze wojennej). Przy dobrej widoczności możliwość zobaczenia najwyższego lodowca Kaukazu - Góry Kazbegi (5047 m). Przejazd do hotelu w Kazbegi , obiadokolacja i nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Mccheta. Zwiedzanie jednego z najstarszych miast Gruzji, położonego na ważnym szlaku handlowych, dawnej stolicy gruzińskiego królestwa Iberii, którego król Mirian III przyjął chrześcijaństwo w 317 r. Zwiedzanie katedry Sweti Cchoweli (XI w.), perły architektury gruzińskiej (na Liście Światowego Dziedzictwa UNESCO) – niegdyś siedziby patriarchy i miejsca konsekracji królów. Starożytne źródło chrzcielne, replika Grobu Bożego z Jerozolimy. Przejazd do Tbilisi, stolicy Gruzji. Zakwaterowanie w hotelu, obiadokolacja, nocleg."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie w hotelu. Przejazd na granicę gruzińsko-turecką do Doğubeyazıt, gdzie można zwiedzać bajkowe ruiny pałacu Ishak Paszy. Stąd również podziwiać można majestatyczny stożek wielkiego wulkanu, czyli Araratu, najwyższego szczytu Turcji. Zakwaterowanie w hotelu, kolacja, nocleg."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Śniadanie w hotelu, przejazd do Van. Jest to miasto we wschodniej Turcji, w pobliżu wschodniego brzegu jeziora Van, na wysokości 1725 metrów. Miasto leży w centrum historycznej krainy Wielkiej Armenii. Po drodze zwiedzanie wodospadu Muradiye. Zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie w hotelu. Zwiedzanie Twierdzy Hoşap .Wycieczka na wyspę Akdamar, położoną pośród wód największego w Turcji jeziora Van. Wyspa słynie dzięki wznoszącemu się na niej armeńskim kościołem św. Krzyża z X w., jeden z najsławniejszych zabytków architektury armeńskiej. Po zwiedzeniu kościoła czas na wypoczynek i lunch na plaży nad jeziorem, słynącym z zasadowej wody. Powrót do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "info": "Śniadanie i przejazd do miasta Kars – Ani - ruiny miasta na wschodzie obecnej Turcji przy granicy z Armenią. Dawniej Ani było najwspanialszym ze wszystkich ormiańskich miast i zwane było miastem 1000 i jednego kościoła. Zwiedzanie terenu o powierzchni 5 ha, na którym znajdują się zabytki kościelne, pozostałości murów i bram oraz pałaców Turków Seldżuckich i klasztor. Przejazd do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu i wyjazd w stronę granicy turecko-gruzińskiej. Przejazd przez miasto Posof, przekroczenie granicy. Przejazd do Akhaltsikhe (podziwianie twierdzy z zewnątrz) i kompleksu, przejazd do Gori (miejsce urodzenia Józefa Stalina) i Borjomi – słynnego kurortu uzdrowiskowego. Przyjazd do Tblisi do hotelu, zakwaterowanie, obiadokolacja i nocleg."
+      },
+      {
+        "day": "11 dzień",
+        "info": "Śniadanie w hotelu i zwiedzanie stolicy Gruzji - Tblisi. Wycieczka po stolicy – Muzeum Państwowe, Opera, Teatr Rustawelego, Pałac Gubernatora, budynek Parlamentu, Kościół Meteki, Katedra Sioni. Zwiedzanie Kościoła Antczischati oraztwierdzy Narikala. Zwiedzanie muzeum etnograficznego pod gołym niebem, Kąpieliska siarkowego oraz Kościoła Świętej Trójcy – Cminda Sameba. Obiadokolacja w hotelu i nocleg."
+      },
+      {
+        "day": "12 dzień",
+        "info": "Śniadanie w hotelu, następnie transfer na lotnisko w Tblisi. Odprawa bagażowo – biletowa i przelot do Warszawy i zakończenie wycieczki."
+      }
+    ]
+  },
+  "otherOffers4": {
+    "menu": {
+      "text": "TURCJA 8 DNI – KULTURA I WYPOCZYNEK"
+    }
+  },
+  "otheroff4": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Zbiórka na lotnisku w Warszawie i wylot do Antalyi. Przejazd do Pamukkale, zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu i zwiedzanie Pamukkale – śnieżnobiałych tarasów wapiennych, które objęło patronatem UNESCO, wpisując je na listę światowego dziedzictwa przyrodniczego. Zwiedzanie największego zachowanego Nekropolis oraz wizyta w starożytnym mieście Herapolis z możliwością kąpieli w basenie Kleopatry. Następnie przejazd do Kusadasi, po drodze zwiedzanie Efezu – jednego z najlepiej zachowanych miast portowych okresu jońskiego oraz zwiedzanie Domu Matki Boskiej. Przyjazd do Kusadasi, zakwaterowanie w hotelu i obiadokolacja."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Sabmułu, zwiedzanie obiektów kulturowych: Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Topkapi - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw.klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Obiadokolacja i nocleg w hotelu."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie w hotelu, wycieczka statkiem wzdłuż cieśniny Bosfor łączącej Morze Czarne z Morzem Marmara, położona między Półwyspem Bałkańskim a Azją Mniejszą, oddziela Europę od Azji. Następnie zwiedzanie Bazaru Egipskiego oraz Wielkiego Bazaru. Powrót do hotelu i obiadokolacja i nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Wcześnie rano przejazd do Kapadocji. Po drodze zwiedzanie Tuz – jeziora solnego w środkowej Turcji - drugie największe pod względem wielkości. Przyjazd do Kapadocji, zwiedzanie podziemnego miasta, oglądanie panoramy Kapadocji, przyjazd do hotelu i obiadokolacja."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie w hotelu, zwiedzanie Kapadocji – Uchisar, Goreme, Cavusin, Zelve, Avanos, powrót do hotelu, obiadokolacja."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Wcześnie rano wyjazd z hotelu w kierunku Antalyi. Po drodze zwiedzanie Karavan Saraj, Konji – Dervis Museum, przyjazd do Antalyi w porze wieczornej, zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie w hotelu i przejazd na lotnisko, wylot do Polski."
+      }
+    ]
+  },
+  "otherOffers5": {
+    "menu": {
+      "text": "TURCJA 10 DNI PIELGRZYMKA"
+    }
+  },
+  "otheroff5": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Przelot z Berlina do Stambułu we wczesnych godzinach rannych. W ten sam dzień przelot ze Stambułu do Adany. Z Adany przejazd do Tarsu - w starożytności było to bardzo duże miasto, szacuje się, że w czasach św. Pawła liczyło prawie pół miliona mieszkańców. Zwiedzanie studni św. Pawła. Przypuszcza się, że właśnie w tej okolicy mieszkał św. Paweł oraz msza w kościele św. Pawła. Zakwaterowanie w hotelu w Mersin nad morzem, obiadokolacja."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Kapadocji. W Kapadocji zwiedzanie Derinkuyu - podziemnego miasta i „Uc Guzeller”, czyli charakterystyczych form skalnych przypominających bajkowe kominy. Przejazd do hotelu, msza święta i obiadokolacja."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Skalnego Kościoła w dolinie, tam msza święta. Następnie zwiedzanie Kapadocji – Uchisar (wieża Uchisar), Goreme , Zelve, Avanos, Devrent i powrót do hotelu, obiadokolacja."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie w hotelu i przejazd z Kapadocji do Pamukkale. Po drodze zwiedzanie Konji – starego miasta rzymskiego i bizantyjskiego oraz msza w kościele św. Pawła. Wizyta w muzeum-meczecie Mevlany – średniowiecznego mistyka islamu, inspiratora zakonu Tańczących Derwiszów. Obiadokolacja i nocleg w Pamukkale."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Śniadanie w hotelu i zwiedzanie Pamukkale – śnieżnobiałych tarasów wapiennych, które objęło patronatem UNESCO, wpisując je na listę światowego dziedzictwa przyrodniczego. Zwiedzanie największego zachowanego Nekropolis oraz wizyta w starożytnym mieście Herapolis z możliwością kąpieli w basenie Kleopatry. Msza święta w Leodikya. Następnie przejazd do Kusadasi, zakwaterowanie w hotelu i obiadokolacja."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Efezu – jednego z najlepiej zachowanych miast portowych okresu jońskiego oraz zwiedzanie Domu Matki Boskiej – msza święta, bazylika św. Jana z miejscem pochówku Ewangelisty, świątynia Artemidy. Obiadokolacja i nocleg w Kusadasi."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Śniadanie w hotelu oraz wyjazd z Kusadasi do Canakkale. Po drodze zwiedzanie Bergamy - kompleksu archeologicznego ruin starożytnego Pergamonu znajdujego się na górującym nad współczesnym miastem akropolu. Na obrzeżach Bergamy znajduje się także inne stanowisko archeologiczne - ruiny dawnego Asklepiejonu. Msza święta. Następnie zwiedzanie ruin starożytnej Troi, miasta szczególnie znanego z wojny, opisanej w starogreckim poemacie epickim „Iliada”. Przyjazd do Canakkale, obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Stambułu, oglądanie panoramy miasta ze wzgórza, przyjazd do hotelu i zakwaterowanie blisko centrum miasta. Czas wolny – indywidualne odkrywanie Stambułu. Wieczorem obiadokolacja i nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "info": "Śniadanie w hotelu, msza święta w kościele św. Antoniego i zwiedzanie obiektów kulturowych:Wycieczka statkiem wzdłuż cieśniny Bosfor łączącej Morze Czarne z Morzem Marmara, położona między Półwyspem Bałkańskim a Azją Mniejszą, oddziela Europę od Azji. Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna.świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Topkapi - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw. klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Obiadokolacja i nocleg w hotelu."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu i przejazd do Adampolu – polskaiej wioski w Turcji założonej w poł. XIX w. W tym miejscu msza święta. Powrót do Stambułu i czas wolny na zwiedzanie Egipskiego Bazaru i Grand Bazaru - jednego z największych obiektów tego typu w Turcji. Bazar zajmuje powierzchnię 30 hektarów, ma 61 ulic z około 3500 sklepikami, 22 bramy, restauracje i kawiarnie, dwa meczety i cztery fontanny. Sprzedaje się tam między innymi przyprawy, biżuterię, wyroby garncarskie oraz dywany. Obiadokolacja w hotelu i wyjazd na lotnisko."
+      }
+    ]
+  },
+  "otherOffers6": {
+    "menu": {
+      "text": "TURCJA - 14 DNI KULTURA I WYPOCZYNEK"
+    }
+  },
+  "otheroff6": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Wyjazd z Wrocławia w godzinach porannych 6.00. Przejazd przez Słowację, Węgry, nocleg tranzytowy w Serbii."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie. Wyjazd do Turcji. Przekroczenie granicy bułgarsko - Turcja w godzinach popołudniowych. Krótki przystanek w Edirne - Kolacja, dalsza podróż przez terytorium Turcji do Canakkale, zakwaterowanie w hotelu, nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie i wyjazd w strone Kusadasi, drodze zwiedzanie Bergamy - kompleksu archeologicznego ruin starożytnego Pergamonu znajdujego się na górującym nad współczesnym miastem akropolu. Na obrzeżach Bergamy znajduje się także inne stanowisko archeologiczne - ruiny dawnego Asklepiejonu. Zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4,5,6 dzień",
+        "info": "3 dni w 4* hotelu w Kusadasi z prywatną plażą. Odpoczynek i plażowanie. W trakcie pobytu organizowane będą wycieczki:1. Izmir - miasto portowe w zachodniej Turcji nad Zatoką Izmirską. Trzecie miasto pod względem wielkości w Turcji 2. Efez - zwiedzanie Efezu – jednego z najlepiej zachowanych miast portowych okresu jońskiego oraz zwiedzanie Domu Matki Boskiej. 3. Didim, Milet, Priene - pozostałości starożytnej kultury greckiej."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Śniadanie w hotelu i zwiedzanie Pamukkale – śnieżnobiałych tarasów wapiennych, które objęło patronatem UNESCO, wpisując je na listę światowego dziedzictwa przyrodniczego. Zwiedzanie największego zachowanego Nekropolis oraz wizyta w starożytnym mieście Herapolis z możliwością kąpieli w basenie Kleopatry. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Po śniadaniu wyjazd w kierunku Kapadocji na przystanku sposób na krótkie zwiedzanie Konyi - starożytne Ikonium, że w swoich podróżach odwiedził Pawła i Barnabę. Zwiedzimy muzeum i mauzoleum Mevlana - słynny założyciel zakonu derwiszów tańca. Przejazd do Kapadocji, kolacja i nocleg."
+      },
+      {
+        "day": "9 dzień",
+        "info": "Śniadanie w hotelu, zwiedzanie Kapadocji – Uchisar, Goreme, Cavusin, Zelve, Avanos, powrót do hotelu, obiadokolacja."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu i dalsze zwiedzanie Kapadocji. Przejście Kanionem Ihlara (4-5 km spacer), zwiedzanie podziemnego miasta, oglądanie panoramy Kapadocji, przyjazd do hotelu i obiadokolacja."
+      },
+      {
+        "day": "11 dzień",
+        "info": "Po śniadaniu wyjazd w kierunku Stambułu, sposób krótkie zwiedzanie mauzoleum Ataturka w Ankarze, stolicy Turcji i Polonezkoy - Adampol, polska wieś w Stambule powstała wiele lat temu przez naszych ludzi, potomków powstań: listopadowego i styczniowego, mieszkańcy kilku pokoleń w pięknej okolicy w pobliżu Bosforu. Można odwiedzić małą Sophia Museum rufous stary polski cmentarz, kościół, a także odpocząć w jednej z restauracji prowadzonych przez polskie rodziny. Przejazd przez most nad cieśniną Bosfor (ponad 800 m) między Europą i Azją do europejskiej części zabytkowego zakwaterowania metropolii w hotelu, wokół najważniejszych zabytków dawnego Konstantynopola, kolacja i nocleg."
+      },
+      {
+        "day": "12 dzień",
+        "info": "Śniadanie w hotelu, zwiedzanie obiektów kulturowych:Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Topkapi - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw. klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Obiadokolacja i nocleg w hotelu."
+      },
+      {
+        "day": "13 dzień",
+        "info": "Po śniadaniu wymeldowanie z hotelu i wyjazd w drodze powrotnej do kraju. Przejazd przez Edirne - starożytny Adrianopol pożegnanie z Turcją i krótkie zwiedzanie architektonicznych atrakcji Turkish Selimiye Mosque okresie tureckiej."
+      },
+      {
+        "day": "14 dzień",
+        "info": "Powrót do Wrocławia w godzinach. po południu. Zakończenie imprezy."
+      }
+    ]
+  },
+  "otherOffers7": {
+    "menu": {
+      "text": "TURCJA 15 DNI – MORZE CZARNE I WSCHÓD"
+    }
+  },
+  "otheroff7": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Zbiórka uczestników wycieczki w wyznaczonym miejscu i godzinie. Wylot do Antalyi, lądowanie. Zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu, przejazd do Kapadocji, po drodze zwiedzanie Konji – starego miasta rzymskiego i bizantyjskiego oraz msza w kościele św. Pawła. Wizyta w muzeum-meczecie Mevlany – średniowiecznego mistyka islamu, inspiratora zakonu Tańczących Derwiszów. Zwiedzanie podziemnego miasta w Kapadocji. Zakwaterowanie w hotelu. Obiadokolacja i nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu, następnie całodniowe zwiedzanie Kapadocji słynącej z wulkanicznych krajobrazów: Dolina Skalnych Kościołów, Dolina Gołębi, Baśniowe Kominy. Zwiedzanie doliny Goreme i Pasaba, Avanos, Devrent. Powrót do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie i wyjazd do Amasyi – miasta słynącego ze skalnych grobów królów Pontu z czasów hellenistycznych, ruin z czasów bizantyjskich oraz licznych meczetów, w tym meczet Burmali Minare, z minaretem w kształcie spirali. Przejazd do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "5 dzień",
+        "info": "Śniadanie i wyjazd do Trabzonu. Miasto to położone jest nad Morzem Czarnym i u podnóżna Gór Pontyjskich, założone przez Greków na trasie szlaku jedwabnego. Po południu zwiedzanie zabytków Trabzonu – bizantyjskich i starożytnych pozostałości miasta Trapezunt m.in. kościoła Hagia Sofia."
+      },
+      {
+        "day": "6 dzień",
+        "info": "Śniadanie w hotelu. Zwiedzanie klasztoru Sumela znajdującego się na Liście Światowego dziedzictwa UNESCO. Ukryty pod okapem ogromnego skalnego urwiska średniowieczny klasztor, słynący nie tylko z fenomenalnego położenia, ale i bizantyjskich fresków z okresu XIV w., po drodze postój w punkcie widokowym. Zwiedzanie plantacji herbaty. Wieczorem obiadokolacja i nocleg."
+      },
+      {
+        "day": "7 dzień",
+        "info": "Śniadanie i przejazd do miasta Kars – Ani - ruiny miasta na wschodzie obecnej Turcji przy granicy z Armenią. Dawniej Ani było najwspanialszym ze wszystkich ormiańskich miast i zwane było miastem 1000 i jednego kościoła. Zwiedzanie terenu o powierzchni 5 ha, na któóym znajdują się zabytki kościelne, pozostałości murów i bram oraz pałaców Turków Seldżuckich i klasztor. Przejazd do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "8 dzień",
+        "info": "Śniadanie i przejazd do Dogubeyazit, gdzie można zwiedzać bajkowe ruiny pałacu Iszak Paszy. Stąd również podziwiać można majestatyczny stożek wielkiego wulkanu, czyli Araratu, najwyższego szczytu Turcji."
+      },
+      {
+        "day": "9 dzień",
+        "info": "Śniadanie w hotelu, przejazd do Van. Jest to miasto we wschodniej Turcji, w pobliżu wschodniego brzegu jeziora Wan, na wysokości 1725 metrów. Miasto leży w centrum historycznej krainy Wielkiej Armenii. Zwiedzanie miasta i ruin zamku. Zakwaterowanie w hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "10 dzień",
+        "info": "Śniadanie w hotelu. Wycieczka na wyspę Akdamar, położoną pośród wód największego w Turcji jeziora Wan. Wyspa słynie dzięki wznoszącemu się na niej armeńskim kościołem św. Krzyża z X w., jeden z najsławniejszych zabytków architektury armeńskiej. Po zwiedzeniu kościoła czas na wypoczynek na plaży nad jeziorem, słynącym z zasadowej wody. Powrót do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "11 dzień",
+        "info": "Śniadanie w hotelu i wyjazd w kierunku miasta Sanliurfa - miasta w dzisiejszej południowo-wschodniej Turcji. W starożytności, Edessa była centrum chrześcijaństwa syryjskiego. Na miejsci zwiedzanie starego miasta, jeziora rybnego i Göbekli Tepe, które jest najstarszym znanym miejscem kultowym stworzonym przez człowieka a jego powstanie datowane jest na X tys. p.n.e. W hotelu obiadokolacja i nocleg."
+      },
+      {
+        "day": "12 dzień",
+        "info": "Śniadanie w hotelu, wyjazd do Nemrut, który jest jednym z najważniejszych stanowisk archeologicznych związanych z kulturą późnego okresu hellenistycznego. Wejście na szczyt, by podziwiać wspaniałe. Szczyt i jego otoczenie wpisane jest na listę UNESCO – bo zamieniony został w starożytności w zespół świątynno-grobowy władców niewielkiego państewka Komnageny. To właśnie stąd pochodzą sławne zdjęcia kamiennych głów, zapatrzonych w dal. Następnie zakwaterowanie w hotelu w Kahty, obiadokolacja i nocleg."
+      },
+      {
+        "day": "13 dzień",
+        "info": "Śniadanie w hotelu. Wyjazd Mersin (Kizkalesi) , po drodze zwiedzanie Zeugma - miasta antycznego na pograniczu Azji Mniejszej, Syrii i Mezopotamii, leżącego na zachodnim brzegu Eufratu, nieopodal miasta Apamei. Tam zwiedzanie największego na świecie Muzeum Mozaiek. Zakwaterowanie w hotelu nad morzem, odpoczynek, obiadokolacja i nocleg."
+      },
+      {
+        "day": "14 dzień",
+        "info": "Śniadanie w hotelu i wyjazd do Antalyi. Dzień wolny na odpoczynek i plażowanie."
+      },
+      {
+        "day": "15 dzień",
+        "info": "Śniadanie w hotelu i wyjazd na lotnisko. Powrót do Polski."
+      }
+    ]
+  },
+  "otherOffers8": {
+    "menu": {
+      "text": "TURCJA - STAMBUŁ 4 DNI"
+    }
+  },
+  "otheroff8": {
+    "menu": [
+      {
+        "day": "1 dzień",
+        "info": "Przyjazd do Stambułu. Zakwaterowanie w hotelu i kolacja. Po posiłku wieczorne zwiedzanie Stambułu - pokaz światło i dźwięk przez Meczetem Błękitnym. Powrót do hotelu i nocleg."
+      },
+      {
+        "day": "2 dzień",
+        "info": "Śniadanie w hotelu.Przejazd do kościoła św. Antoniego na Taksimie. Msza św. w kościele. Po mszy zwiedzanie obiektów kulturowych:Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw. klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Topkapı - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta.Powrót do hotelu obiadokolacja i nocleg."
+      },
+      {
+        "day": "3 dzień",
+        "info": "Śniadanie w hotelu i wyjazd do Polonezköy - Adampol, polska wieś w Stambule założona przez księcia Adama Czartoryskiego, który po powstaniu listopadowym zlecił kupno ziemi dla emigrantów z Polski. Można odwiedzić małą Sophia Museum, stary polski cmentarz( na którym spoczywa Ludwika Śniadecka nieodwzajemniona miłość Juliusza Słowackiego). Msza św. w kościele. Po południu rejs po Bosforze (fakultatywnie). Powrót do hotelu, obiadokolacja i nocleg."
+      },
+      {
+        "day": "4 dzień",
+        "info": "Śniadanie w hotelu. Przejście na Kryty Bazar (największy kryty baza świata) założony przez Mehmeta Zobywcę w XV w. na terenie 3 km³ z ponad 4500 sklepów. O godzinie 12:00 wyjazd ze Stambułu."
+      }
+    ]
+  },
+  "otherOffers9": {
+    "menu": {
+      "text": "TURCJA - STAMBUŁ 3 DN"
+    }
+  },
+  "otheroff9": {
+    "menu": [
+      {
+        "day": "1 day",
+        "info": "Przyjazd do Stambułu. Zakwaterowanie w hotelu i kolacja. Po posiłku wieczorne zwiedzanie Stambułu – przejście pod Błękitny Meczet na pokaz światło i dźwięk , po drodze oglądanie Kolumny Wężowej. Powrót do hotelu i nocleg."
+      },
+      {
+        "day": "2 day",
+        "info": "Śniadanie w hotelu i dalsze zwiedzanie Stambułu Haga Sofia - Kościół Mądrości Bożej, zwany również Wielkim Kościołem. Monumentalna świątynia bizantyjska, uważana za najwspanialszy obiekt architektury i budownictwa całego pierwszego tysiąclecia naszej ery.Błękitny Meczet - ostatni, a zarazem najwspanialszy z przykładów tzw. klasycznego okresu sztuki islamskiej w Turcji.Hipodrom - niezachowana budowla bizantyjska, przeznaczona jako miejsce wyścigów dla koni i rydwanów, obecnie plac w Stambule, na którym znajduje się egipski obelisk, obelisk Konstantyna oraz Wężowa Kolumna i fontanna Wilhelma II.Topkapı - pałac w centrum Stambułu, który był rezydencją sułtanów przez ponad 380 lat, od 1453 roku wybudowany za czasów Sułtana Mehmeta Po południu rejs po Bosforze. ( fakultatywnie) Powrót do hotelu obiadokolacja i nocleg."
+      },
+      {
+        "day": "3 day",
+        "info": "Msza św. w hotelu.Śniadanie . Przejście na Kryty Bazar (największy kryty baza świata) założony przez Mehmeta Zobywcę w XV w. na terenie 3 km³ z ponad 4500 sklepów. O godzinie 12:00 wyjazd ze Stambułu."
+      }
+    ]
   }
 }

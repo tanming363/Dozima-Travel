@@ -19,7 +19,16 @@ import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-
+import { OthersComponent } from './our_destinations/offer/others/others.component';
+import { Otheroff1Component } from './our_destinations/offer/others/otheroff1/otheroff1.component';
+import { Otheroff2Component } from './our_destinations/offer/others/otheroff2/otheroff2.component';
+import { Otheroff3Component } from './our_destinations/offer/others/otheroff3/otheroff3.component';
+import { Otheroff4Component } from './our_destinations/offer/others/otheroff4/otheroff4.component';
+import { Otheroff5Component } from './our_destinations/offer/others/otheroff5/otheroff5.component';
+import { Otheroff6Component } from './our_destinations/offer/others/otheroff6/otheroff6.component';
+import { Otheroff7Component } from './our_destinations/offer/others/otheroff7/otheroff7.component';
+import { Otheroff8Component } from './our_destinations/offer/others/otheroff8/otheroff8.component';
+import { Otheroff9Component } from './our_destinations/offer/others/otheroff9/otheroff9.component';
 
 
 @NgModule({
@@ -33,7 +42,17 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     TurkeyComponent,
     ChooseCountryComponent,
     TurkeyOfferComponent,
-    ArmeniaGeorgiaComponent
+    ArmeniaGeorgiaComponent,
+    OthersComponent,
+    Otheroff1Component,
+    Otheroff2Component,
+    Otheroff3Component,
+    Otheroff4Component,
+    Otheroff5Component,
+    Otheroff6Component,
+    Otheroff7Component,
+    Otheroff8Component,
+    Otheroff9Component,
   ],
   imports: [
     BrowserModule,
